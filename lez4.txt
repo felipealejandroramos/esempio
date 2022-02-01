@@ -1,0 +1,18 @@
+promesse 
+sono eventi chiamabili una sola volta con un risultato funzionano con le callback then ha un risultate e catch a errori
+
+promise all array di prommesse  aspetta che finiscano le promesse e poi restituische array diriposte se ne fallishe solo 
+una manda errore ma si puogestire con un catch e poi seguirlo con un then
+
+npm nmm init cra il pakage iniziale 
+nmp install installa le dipendenze 
+npm start,run,test sono simili fanno partire il programma
+
+git init 
+git ignore dice cosa igiorare
+git remote copia online 
+git add agiugi qualcosa
+git commit aggungi allarepository le cose aggunte 
+git push spinge nel cloud
+git cechout
+git merge 
